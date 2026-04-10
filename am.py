@@ -1,2 +1,0 @@
-import am
-am.aorovel()
